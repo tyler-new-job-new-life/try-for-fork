@@ -1,0 +1,1 @@
+Çatal ya da çatallama, bir yazılım projesinin mevcut kaynak kodları kopyalanarak başlatılan yeni projeye verilen addır. Özgür yazılım alanında yaygın bir şekilde görülmekle birlikte sahipli yazılımlarda da örnekleri görülebilir.
