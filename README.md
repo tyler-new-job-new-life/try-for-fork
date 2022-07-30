@@ -1,3 +1,4 @@
 # try-for-fork
 ceti
-cetinn
+cetin
+cetin-1
