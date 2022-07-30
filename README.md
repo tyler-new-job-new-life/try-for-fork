@@ -1,2 +1,3 @@
 # try-for-fork
-nihatcan
+nihatcan -1
+
